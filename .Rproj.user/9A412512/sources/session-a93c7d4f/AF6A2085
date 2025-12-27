@@ -1,27 +1,27 @@
 {
-    "id": "3AA8715B",
-    "path": "~/Documents/R_Projects/Pipeline01/Rodrigues/analysis.R",
-    "project_path": "analysis.R",
+    "id": "AF6A2085",
+    "path": "~/Documents/R_Projects/Pipeline01/Rodrigues/modelSumExample.R",
+    "project_path": "modelSumExample.R",
     "type": "r_source",
-    "hash": "946271083",
+    "hash": "1450595795",
     "contents": "",
     "dirty": false,
-    "created": 1766867590922.0,
+    "created": 1766875786734.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 5,
     "properties": {
         "tempName": "Untitled2",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,52",
-        "scrollLine": "0"
+        "cursorPosition": "52,14",
+        "scrollLine": "46"
     },
     "folds": "",
-    "lastKnownWriteTime": 1766873325,
+    "lastKnownWriteTime": 1766878783,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1766873325289,
+    "last_content_update": 1766878783876,
     "read_only": false,
     "read_only_alternatives": []
 }
